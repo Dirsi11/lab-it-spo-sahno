@@ -1,2 +1,5 @@
 # lab-it-spo-sahno
-g.a';askgaga
+o	sahno vladislav vadimovich 101;
+o	Базовые инструменты профессии на практике 4;
+o	выбранное направление: программист.
+
